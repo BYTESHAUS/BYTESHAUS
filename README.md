@@ -1,3 +1,3 @@
-[![&nbsp;&nbsp;&nbsp;REPOSITORIES here are free of generated content.&nbsp;&nbsp;](/rsc/basic-777x150.jpg)](https://github.com/BYTESHAUS/read-write/blob/main/README+/pencraft/README+/essays/README.md) 
+<div align="center"><a href="https://github.com/BYTESHAUS/read-write/blob/main/README+/pencraft/README+/essays/README.md"><a href=""><img alt="&nbsp; B&thinsp;Y&thinsp;T&thinsp;E&thinsp;S&thinsp;H&thinsp;A&thinsp;U&thinsp;S" src="/rsc/basic-777x150.jpg" /></a></div>
 
-## [**READ&thinsp;⊃&thinsp;Write**](https://github.com/BYTESHAUS/read-write/blob/main/.github/README.md) <b>`||`</b> [**USE&thinsp;⊃&thinsp;Develop**](https://github.com/BYTESHAUS/use-dev/blob/main/.github/README.md)
+<h1 align="center"><a href="https://github.com/BYTESHAUS/read-write/blob/main/.github/README.md">READ&thinsp;⊃&thinsp;Write</a> <code>||</code> <a href="https://github.com/BYTESHAUS/use-dev/blob/main/.github/README.md">USE&thinsp;⊃&thinsp;Develop</a></h1>
