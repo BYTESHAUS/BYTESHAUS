@@ -2,4 +2,4 @@
 
 <h1 align="center"><a href="https://github.com/BYTESHAUS/read-write/blob/main/.github/README.md">READ&thinsp;⊃&thinsp;Write</a> <code>||</code> <a href="https://github.com/BYTESHAUS/use-dev/blob/main/.github/README.md">USE&thinsp;⊃&thinsp;Develop</a></h1>
 
-generated-slop-free
+<div align="aright">generated-slop-free</div>
